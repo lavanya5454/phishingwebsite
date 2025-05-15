@@ -1,1 +1,3 @@
 creating text2 file
+hey this is lavanya ✌️
+practicing git on text2.txt file....!
