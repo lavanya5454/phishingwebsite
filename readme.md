@@ -2,21 +2,18 @@
 
 An end-to-end machine learning project for detecting phishing websites using Extreme Learning Machine (ELM) with a browser extension interface.
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 ## 📋 Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Performance](#model-performance)
-- [Browser Extension](#browser-extension)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- Features
+- Demo
+- Installation
+- Usage
+- Dataset
+- Model Performance
+- Browser Extension
+- API Documentation
+
+
 
 ## ✨ Features
 
@@ -29,7 +26,7 @@ An end-to-end machine learning project for detecting phishing websites using Ext
 
 ## 🎯 Demo
 
-Try the live demo: [Phishing Detection Demo](https://your-demo-link.com)
+Try the live demo: [Phishing Detection Demo](https://claude.ai/public/artifacts/1cf33eb3-32f8-4e94-b2d4-3ee021512c62)
 
 ### Quick Test URLs:
 ```
