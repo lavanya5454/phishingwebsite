@@ -30,7 +30,7 @@ print(f"Training date: {model_package['training_date']}")
 
 
 
-!pip install streamlit pyngrok lightgbm xgboost wordcloud scikit-learn pandas numpy seaborn matplotlib
+pip install streamlit pyngrok lightgbm xgboost wordcloud scikit-learn pandas numpy seaborn matplotlib
 
 """
 COMPLETE MALICIOUS URL DETECTOR - STREAMLIT APP FOR GOOGLE COLAB
@@ -41,7 +41,7 @@ Run with ngrok tunnel - WITH DASHBOARD
 # STEP 1: INSTALL PACKAGES
 # ============================================
 
-!pip install -q streamlit pyngrok plotly lightgbm scikit-learn
+pip install -q streamlit pyngrok plotly lightgbm scikit-learn
 
 # ============================================
 # STEP 2: SETUP NGROK
