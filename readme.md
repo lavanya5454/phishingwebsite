@@ -2,7 +2,7 @@
 
 ## 🎯 Demo
 
-Try the live demo: [Phishing Detection Demo](https://claude.ai/public/artifacts/1cf33eb3-32f8-4e94-b2d4-3ee021512c62)
+Try the live demo: [Phishing Detection Demo](https://phish-net-ai.vercel.app)
 
 ## 📞 Contact
 
